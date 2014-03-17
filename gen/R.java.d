@@ -1,0 +1,21 @@
+E:\Dropbox\NetbeansGithub\NowWatch\gen\nl\frankkie\nowwatch\R.java \
+ : E:\Dropbox\NetbeansGithub\NowWatch\res\drawable\nowclock_all.png \
+E:\Dropbox\NetbeansGithub\NowWatch\res\drawable\nowclock_earth.png \
+E:\Dropbox\NetbeansGithub\NowWatch\res\drawable\nowclock_no_continent.png \
+E:\Dropbox\NetbeansGithub\NowWatch\res\drawable-hdpi\ic_launcher.png \
+E:\Dropbox\NetbeansGithub\NowWatch\res\drawable-mdpi\ic_launcher.png \
+E:\Dropbox\NetbeansGithub\NowWatch\res\drawable-xhdpi\ic_launcher.png \
+E:\Dropbox\NetbeansGithub\NowWatch\res\drawable-xxhdpi\ic_launcher.png \
+E:\Dropbox\NetbeansGithub\NowWatch\res\drawable-xxxhdpi\ic_launcher.png \
+E:\Dropbox\NetbeansGithub\NowWatch\res\layout\main.xml \
+E:\Dropbox\NetbeansGithub\NowWatch\res\raw\nowclock_all.xcf \
+E:\Dropbox\NetbeansGithub\NowWatch\res\values\strings.xml \
+E:\Dropbox\NetbeansGithub\NowWatch\bin\res\drawable\nowclock_all.png \
+E:\Dropbox\NetbeansGithub\NowWatch\bin\res\drawable\nowclock_earth.png \
+E:\Dropbox\NetbeansGithub\NowWatch\bin\res\drawable\nowclock_no_continent.png \
+E:\Dropbox\NetbeansGithub\NowWatch\bin\res\drawable-hdpi\ic_launcher.png \
+E:\Dropbox\NetbeansGithub\NowWatch\bin\res\drawable-mdpi\ic_launcher.png \
+E:\Dropbox\NetbeansGithub\NowWatch\bin\res\drawable-xhdpi\ic_launcher.png \
+E:\Dropbox\NetbeansGithub\NowWatch\bin\res\drawable-xxhdpi\ic_launcher.png \
+E:\Dropbox\NetbeansGithub\NowWatch\bin\res\drawable-xxxhdpi\ic_launcher.png \
+E:\Dropbox\NetbeansGithub\NowWatch\bin\AndroidManifest.xml \

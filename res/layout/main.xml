@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent">
+    <ScrollView android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Select Image"
+            />
+            <ImageButton
+                android:id="@+id/main_btn_earth"
+                android:src="@drawable/nowclock_earth"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:scaleType="centerInside"
+            />
+            <ImageButton
+                android:id="@+id/main_btn_no_continent"
+                android:src="@drawable/nowclock_no_continent"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:scaleType="centerInside"
+            />
+            <ImageButton
+                android:id="@+id/main_btn_all"
+                android:src="@drawable/nowclock_all"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:scaleType="centerInside"
+            />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
+
